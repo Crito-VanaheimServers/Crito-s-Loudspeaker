@@ -1,0 +1,1 @@
+[] execVM "custom\Critos_LoudSpeaker\LoudSpeaker.sqf";

@@ -1,0 +1,8 @@
+	class CfgSounds
+		{
+			sounds[] = {};
+		
+			#include "custom\Critos_LoudSpeaker\PlayList.hpp"
+	
+		};
+
